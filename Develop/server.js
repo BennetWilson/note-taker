@@ -3,7 +3,7 @@ const express = require('express');
 const db = require('./db/db.json')
 const fs = require('fs');
 const { v4: uuidv4 } = require('uuid');
-// const { get } = require('express/lib/response');
+
 // variables
 const path = require('path')
 const PORT = 3001

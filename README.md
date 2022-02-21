@@ -8,8 +8,6 @@
   
   I was tasked with creating a Note-Taker using express in JS.
 
-  I was given a lot of starter files, but i had to create the routes in the server.js.
-
   I created three GETs, one POST, one DELETE and one LISTEN.
 
   I used UUID to create unique ID's for every new entry. I used this ID to target which item of the array I want to delete.

@@ -6,7 +6,7 @@
   
   ## Description 
   
-  I was tasked with creating a Note-Taker using express in JS.
+  I created a Note-Taker using express in JS.
 
   I created three GETs, one POST, one DELETE and one LISTEN.
 
